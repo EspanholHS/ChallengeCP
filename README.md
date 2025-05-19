@@ -19,7 +19,8 @@ A proposta busca atender a diversidade de perfis dentro da Eurofarma, promovendo
 
 - **Thiago Ratão Passerini** – RM: 551351  
 - **Victor Espanhol Henrique Santos** – RM: 552532  
-- **Diogo Makoto Mano** – RM: 98446  
+- **Diogo Makoto Mano** – RM: 98446
+- **Pablo S R Q Aguayo** - RM: 551548 
 
 ## 🚀 Tecnologias Utilizadas
 
